@@ -12,4 +12,4 @@ A front-end clone of the Swiggy food-ordering web app (using live api of swiggy)
 
 
 ## Acknowledgements
-- It is use like api of swiggy any changes in swiggy api cause a trouble.
+- It is use live api of swiggy any changes in swiggy api cause a trouble.
