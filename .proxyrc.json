@@ -1,0 +1,14 @@
+{
+  "/swiggy-api": {
+    "target": "https://www.swiggy.com",
+    "changeOrigin": true,
+    "pathRewrite": {
+      "^/swiggy-api": ""
+    },
+
+    "headers": {
+      "User-agent": "Mozilla/5.0 (Linux; Android 15; Pixel 9) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Mobile Safari/537.36",
+      "Referer": "https://www.swiggy.com/"
+    }
+  }
+}
